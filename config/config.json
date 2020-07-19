@@ -2,7 +2,7 @@
     "development": {
       "username": "root",
       "password": "muja@examly",
-      "database": "dummy",
+      "database": "basehub",
       "host": "localhost",
       "dialect": "mysql"
     },
